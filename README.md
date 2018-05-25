@@ -6,4 +6,5 @@
 + card的間隙、顏色如何調整
 + footer的FB、tweeter沒有效果
 + 引入google analytics
-+ 字型如何修改
++ 字型如何修改--在css style裡面
++ 如何把md、R檔案匯入
